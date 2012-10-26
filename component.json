@@ -9,22 +9,23 @@
     ],
     "scripts":[
         "index.js",
+    ],
+    "styles":[
+
+    ],
+    "files":[
         "config.js",
         "styles.js",
         "lang/en.js",
         "skins/kama/skin.js",
         "plugins/divarea/plugin.js",
         "plugins/link/dialogs/anchor.js",
-        "plugins/link/dialogs/link.js"
-    ],
-    "styles":[
+        "plugins/link/dialogs/link.js",
         "contents.css",
         "skins/moono/editor.css",
         "skins/moono/dialog.css",
         "skins/kama/editor.css",
-        "skins/kama/dialog.css"
-    ],
-    "files":[
+        "skins/kama/dialog.css",
         "skins/moono/icons.png",
         "skins/moono/images/arrow.png",
         "skins/moono/images/close.png",
