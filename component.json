@@ -7,6 +7,17 @@
     "keywords":[
         "editor"
     ],
-    "scripts":["index.js", "config.js", "styles.js", "lang/en.js", "plugins/divarea/plugin.js"],
-    "styles":["skins/moono/editor.css","skins/moono/icons.png"]
+    "scripts":[
+        "index.js",
+        "config.js",
+        "styles.js",
+        "lang/en.js",
+        "plugins/divarea/plugin.js"
+    ],
+    "styles":[
+        "skins/moono/editor.css",
+        "skins/moono/icons.png",
+        "skins/kama/editor.css",
+        "skins/kama/icons.png"
+    ]
 }
