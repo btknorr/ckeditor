@@ -24,7 +24,7 @@
         "skins/kama/editor.css",
         "skins/kama/dialog.css"
     ],
-    "images":[
+    "files":[
         "skins/moono/icons.png",
         "skins/moono/images/arrow.png",
         "skins/moono/images/close.png",
