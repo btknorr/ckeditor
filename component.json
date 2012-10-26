@@ -22,7 +22,7 @@
         "skins/moono/editor.css",
         "skins/moono/dialog.css",
         "skins/kama/editor.css",
-        "skins/kama/dialog.css",
+        "skins/kama/dialog.css"
     ],
     "images":[
         "skins/moono/icons.png",
