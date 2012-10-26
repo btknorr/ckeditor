@@ -8,5 +8,5 @@
         "editor"
     ],
     "scripts":["index.js", "config.js", "styles.js", "lang/en.js", "plugins/divarea/plugin.js"],
-    "styles":["skins/moono/editor.css"]
+    "styles":["skins/moono/editor.css","skins/moono/icons.png"]
 }
