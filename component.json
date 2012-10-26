@@ -12,12 +12,25 @@
         "config.js",
         "styles.js",
         "lang/en.js",
+        "skins/kama/skin.js",
         "plugins/divarea/plugin.js"
     ],
     "styles":[
         "skins/moono/editor.css",
+        "skins/moono/dialog.css",
         "skins/moono/icons.png",
+        "skins/moono/images/arrow.png",
+        "skins/moono/images/close.png",
+        "skins/moono/images/mini.png",
         "skins/kama/editor.css",
-        "skins/kama/icons.png"
+        "skins/kama/dialog.css",
+        "skins/kama/icons.png",
+        "skins/kama/images/dialog_sides.gif",
+        "skins/kama/images/dialog_sides.png",
+        "skins/kama/images/dialog_sides_rtl.png",
+        "skins/kama/images/mini.gif",
+        "skins/kama/images/sprites.png",
+        "skins/kama/images/sprites_ie6.png",
+        "skins/kama/images/toolbar_start.gif"
     ]
 }
