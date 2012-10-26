@@ -1,7 +1,7 @@
 {
     "name":"ckeditor",
     "version":"4.0.0",
-    "description":"Component version of coeditor",
+    "description":"Component version of ckeditor",
     "homepage":"http://ckeditor.com",
     "author":"CKEditor",
     "keywords":[
