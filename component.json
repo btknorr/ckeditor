@@ -13,9 +13,12 @@
         "styles.js",
         "lang/en.js",
         "skins/kama/skin.js",
-        "plugins/divarea/plugin.js"
+        "plugins/divarea/plugin.js",
+        "plugins/link/dialogs/anchor.js",
+        "plugins/link/dialogs/link.js"
     ],
     "styles":[
+        "contents.css",
         "skins/moono/editor.css",
         "skins/moono/dialog.css",
         "skins/moono/icons.png",
@@ -31,6 +34,7 @@
         "skins/kama/images/mini.gif",
         "skins/kama/images/sprites.png",
         "skins/kama/images/sprites_ie6.png",
-        "skins/kama/images/toolbar_start.gif"
+        "skins/kama/images/toolbar_start.gif",
+        "plugins/link/images/anchor.gif"
     ]
 }
