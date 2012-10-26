@@ -9,4 +9,4 @@
     ],
     "scripts":["index.js", "config.js", "styles.js", "lang/en.js", "plugins/divarea/plugin.js"],
     "styles":["skins/moono/editor.css"]
-}
+}`
