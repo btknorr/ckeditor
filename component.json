@@ -8,10 +8,9 @@
         "editor"
     ],
     "scripts":[
-        "index.js",
+        "index.js"
     ],
     "styles":[
-
     ],
     "files":[
         "config.js",
