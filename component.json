@@ -33,6 +33,6 @@
         "plugins/link/dialogs/link.js",
         "plugins/link/images/anchor.gif",
         "plugins/image/dialogs/image.js",
-        "plugins/image/images/noimage.js"
+        "plugins/image/images/noimage.png"
     ]
 }
